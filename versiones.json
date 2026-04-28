@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.0",
-    "modpack_version": "1.0.1",
+    "launcher_version": "1.0.1",
+    "modpack_version": "1.0.0",
     "mods_version": "1.0.0",
     "changelog": "Primera versión con sistema de actualizaciones integrado."
 }
